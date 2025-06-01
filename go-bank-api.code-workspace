@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "auth-service"
+		},
+		{
+			"path": "banking-service"
+		},
+		{
+			"path": "banking-lib"
+		}
+	],
+	"settings": {}
+}
